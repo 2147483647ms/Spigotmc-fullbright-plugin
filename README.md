@@ -8,25 +8,7 @@ Issues? make an issue using the template<br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+download from releases tab or build your self if your a 200iq dev man<br>
 <br>
 <br>
 <br>
