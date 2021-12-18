@@ -15,8 +15,8 @@ now locate the .jar built version in the target folder in the workspace workspac
 ![image](https://user-images.githubusercontent.com/77409841/146654563-c0f9e013-3cbd-461b-aa39-6d35b48a6bda.png) <br>
 # Adding to the server <br>
 Add the file to your plugins folder in your server and start the server <br>
-{server folder name}\plugins drag the .jar file here <br>
-
+{server folder name}\plugins <br> 
+drag the .jar file here <br>
 
 
 
@@ -24,4 +24,5 @@ Add the file to your plugins folder in your server and start the server <br>
 
 
 
-Contact me 12x12#5505 on discord (do not contact for issues there is a tab for that)<br>
+# Contact<br> 
+12x12#5505 on discord (do not contact for issues there is a tab for that)<br>
