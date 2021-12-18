@@ -15,8 +15,8 @@ download from releases tab ( https://github.com/2147483647ms/Spigotmc-fullbright
 ![image](https://user-images.githubusercontent.com/77409841/146654563-c0f9e013-3cbd-461b-aa39-6d35b48a6bda.png) <br>
 ## Adding to your server <br>
 Add the file to your plugins folder in your server and start the server <br>
-{server folder name}\plugins <br> 
-drag the .jar file into the folder <br>
+> {server folder name}\plugins <br> 
+> drag the .jar file into the folder <br>
 
 
 
