@@ -7,7 +7,7 @@ Check if there is a open issue on your problem first<br>
 <br>
 # Download <br>
 download from releases tab ( https://github.com/2147483647ms/Spigotmc-fullbright-plugin/releases ) <br>
-> or build your self<br>
+> __or build your self__ <br>
 > download the src folder of the version you want then open in your ide<br>
 > once you have the project open click the play button<br>
 ![image](https://user-images.githubusercontent.com/77409841/146654511-bcdad5a7-3b3a-4739-9a43-91623f7c2ad2.png) <br> 
