@@ -1,7 +1,7 @@
 # Spigotmc-fullbright-plugin
 A plugin that applies night vision to all players that lasts forever and auto reapplies<br>
 
-##Issues? make an issue using the template<br>
+# Issues? make an issue using the template<br>
 Check if there is a open issue on your problem first<br>
 <br>
 <br>
