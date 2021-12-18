@@ -5,7 +5,7 @@ A plugin that applies night vision to all players that lasts forever and auto re
 Check if there is a open issue on your problem first<br>
 <br>
 <br>
-##Download<br>
+#Download<br>
 download from releases tab ( https://github.com/2147483647ms/Spigotmc-fullbright-plugin/releases ) <br>
 or build your self<br>
 download the src folder of the version you want then open in your ide<br>
