@@ -11,7 +11,7 @@ download from releases tab ( https://github.com/2147483647ms/Spigotmc-fullbright
 > download the src folder of the version you want, then open in your ide<br>
 > once you have the project open, click the play button<br>
 ![image](https://user-images.githubusercontent.com/77409841/146654511-bcdad5a7-3b3a-4739-9a43-91623f7c2ad2.png) <br> 
-> now locate the .jar built version in the target folder in the workspace workspace\target <br>
+> now locate the .jar built version in the target folder in the workspace (workspace\target) <br>
 ![image](https://user-images.githubusercontent.com/77409841/146654563-c0f9e013-3cbd-461b-aa39-6d35b48a6bda.png) <br>
 ## Adding to your server <br>
 Add the file to your plugins folder in your server and start the server <br>
