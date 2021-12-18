@@ -1,5 +1,5 @@
 # SpigotMc fullbright plugin
-> 1.17x - 1.18x 
+> 1.17x - 1.18x <br>
 A plugin that applies night vision to all players that lasts forever and auto reapplies<br>
 
 ## Issues? make an issue using the template<br>
