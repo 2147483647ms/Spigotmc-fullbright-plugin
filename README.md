@@ -1,11 +1,22 @@
 # Spigotmc-fullbright-plugin
 A plugin that applies night vision to all players that lasts forever and auto reapplies<br>
 
-Issues? make an issue using the template<br>
-download from releases tab or build your self if your a 200iq dev person<br>
+##Issues? make an issue using the template<br>
+Check if there is a open issue on your problem first<br>
 <br>
 <br>
+##Download<br>
+download from releases tab ( https://github.com/2147483647ms/Spigotmc-fullbright-plugin/releases ) <br>
+or build your self<br>
+download the src folder of the version you want then open in your ide<br>
+once you have the project open click the play button<br>
+![image](https://user-images.githubusercontent.com/77409841/146654511-bcdad5a7-3b3a-4739-9a43-91623f7c2ad2.png) <br> 
+now locate the .jar built version in the target folder in the workspace workspace\target <br>
+![image](https://user-images.githubusercontent.com/77409841/146654563-c0f9e013-3cbd-461b-aa39-6d35b48a6bda.png) <br>
+Now add the file to your plugins folder in your server and start the server <br>
+
 <br>
-<br>
+
+
+
 Contact me 12x12#5505 on discord (do not contact for issues there is a tab for that)<br>
-note before you think im stupid for not commiting new changes to the same folder no, its to keep all versions public src and jar
