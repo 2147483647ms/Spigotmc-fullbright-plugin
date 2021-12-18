@@ -16,7 +16,7 @@ now locate the .jar built version in the target folder in the workspace workspac
 # Adding to the server <br>
 Add the file to your plugins folder in your server and start the server <br>
 {server folder name}\plugins <br> 
-drag the .jar file here <br>
+drag the .jar file into the folder <br>
 
 
 
