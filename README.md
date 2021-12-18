@@ -25,5 +25,15 @@ Add the file to your plugins folder in your server and start the server <br>
 
 
 
+
+
 # Contact<br> 
 12x12#5505 on discord (do not contact for issues there is a tab for that)<br>
+
+
+
+
+
+## ChangeLog <br>
+> __0.0.2__ <br>
+> Fixed death dug <br>
