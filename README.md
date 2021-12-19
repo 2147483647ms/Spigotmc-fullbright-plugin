@@ -35,5 +35,9 @@ Add the file to your plugins folder in your server and start the server <br>
 
 
 ## ChangeLog <br>
+>__0.0.3__ <br>
+> Fixed bug where night vision would be applied to @a even if no player was online <br>
+
+<br>
 > __0.0.2__ <br>
 > Fixed death dug <br>
