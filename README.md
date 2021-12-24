@@ -18,22 +18,14 @@ download from releases tab ( https://github.com/2147483647ms/Spigotmc-fullbright
 Add the file to your plugins folder in your server and start the server <br>
 > {server folder name}\plugins <br> 
 > drag the .jar file into the folder <br>
-
-
-
 <br>
-
-
-
-
-
+## modification
+please refer to the GNU General Public License v3.0 (license file in the main branch)
+<br>
 # Contact<br> 
 12x12#5505 on discord (do not contact for issues there is a tab for that)<br>
-
 <br>
 <br>
-
-
 ## ChangeLog <br>
 >__0.0.3__ <br>
 > Fixed bug where night vision would be applied to @a even if no player was online <br>
