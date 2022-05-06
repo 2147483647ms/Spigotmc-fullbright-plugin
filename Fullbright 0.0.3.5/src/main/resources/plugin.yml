@@ -1,0 +1,7 @@
+name: Fullbright
+version: '${project.version}'
+main: me.twelvextwelve.fullbright.Fullbright
+api-version: 1.18
+authors: [ 12x12 ]
+description: Fullbright but server side so no stink mods
+
