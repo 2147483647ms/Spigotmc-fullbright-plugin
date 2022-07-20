@@ -17,7 +17,7 @@ download from releases tab ( https://github.com/2147483647ms/Spigotmc-fullbright
 > now locate the .jar built version in the target folder in the workspace (workspace\target) <br>
 ![image](https://user-images.githubusercontent.com/77409841/146654563-c0f9e013-3cbd-461b-aa39-6d35b48a6bda.png) <br>
 
-##Updating the plugin yourself <br>
+## Updating the plugin yourself <br>
 Find pom.xml and scroll to the bottom. <br>
 replace <dependency> brackets and replace the inside of the area with the latest version of papermc api.<br>
 __https://github.com/PaperMC/Paper#how-to-plugin-developers__ <br>
