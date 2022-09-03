@@ -1,0 +1,10 @@
+this version created for 1.18.2 has been ported to 1.19.2 please check releases for 1.19.2 port Pom.xml still using 1.18.2 api please update dependancy for 1.19.2
+with this 
+
+
+ <dependency>
+            <groupId>io.papermc.paper</groupId>
+            <artifactId>paper-api</artifactId>
+            <version>1.19.2-R0.1-SNAPSHOT</version>
+            <scope>provided</scope>
+        </dependency>
